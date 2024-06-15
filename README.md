@@ -1,16 +1,22 @@
+# About The Project
 
+This project is designed for a printing company that offers both printing and design services. It has been developed using Laravel 10 and is prepared to integrate with a frontend framework. All necessary APIs are ready for use.
 
-## About The Project 
+## The Project Structure
 
-This project is for a printing company, which provides printing and designing services . 
-The project was made with laravel 10, prepaired to be linked with FrontEnd framework .
-All APIs are ready to use .
+The project is divided into two main sections:
 
-The project have two sections :
+### 1. Site Section
 
-1- Site section, responsible for showing operations (Products, Categories, Price Estimats, ..etc).
-2- Admin Panel , responsible for : 
-                            1- admin operations .
-                            2- Site controle .
-                            3- user operations .
+- Responsible for displaying various operations such as:
+  - Products
+  - Categories
+  - Price Estimates
+  - And more...
 
+### 2. Admin Panel
+
+- Handles administrative operations including:
+  - Managing site content
+  - User management
+  - Controlling site settings
